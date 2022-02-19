@@ -1,4 +1,3 @@
-from xxlimited import new
 from PIL import Image
 import json
 import random
