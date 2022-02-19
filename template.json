@@ -1,0 +1,23 @@
+{   
+    "hats":
+    [
+        {"name": "red hat", "rarity": 0.1},
+        {"name": "blue hat", "rarity": 0.4},
+        {"name": "white hat", "rarity": 0.2},
+        {"name": "black hat", "rarity": 0.3}
+    ],
+    "t-shirts":
+    [
+        {"name": "red t-shirt", "rarity": 0.1},
+        {"name": "blue t-shirt", "rarity": 0.4},
+        {"name": "white t-shirt", "rarity": 0.2},
+        {"name": "black t-shirt", "rarity": 0.3}
+    ],
+    "boots":
+    [
+        {"name": "red boots", "rarity": 0.1},
+        {"name": "blue boots", "rarity": 0.4},
+        {"name": "white boots", "rarity": 0.2},
+        {"name": "black boots", "rarity": 0.3}
+    ]
+}
